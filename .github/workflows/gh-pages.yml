@@ -8,6 +8,8 @@ on:
       - main
       - master
       - valaxy
+permissions:
+  contents: write
 
 jobs:
   build:

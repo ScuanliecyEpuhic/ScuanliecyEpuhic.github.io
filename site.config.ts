@@ -44,9 +44,9 @@ export default defineSiteConfig({
      */
     pattern: '/posts/**/*.md',
     options: {
-      keys: ['title', 'tags', 'categories'],
+      keys: ['title', 'tags', 'categories', 'excerpt'],
       /**
-       * @default 0.3
+       * @default 0.6
        * @see https://www.fusejs.io/api/options.html#threshold
        * 设置匹配阈值，越低越精确
        */

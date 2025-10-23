@@ -44,7 +44,7 @@ export default defineSiteConfig({
      */
     pattern: '/posts/**/*.md',
     options: {
-      keys: ['title', 'tags', 'categories', 'excerpt'],
+      keys: ['title', 'tags', 'categories', 'excerpt', 'content'],
       /**
        * @default 0.6
        * @see https://www.fusejs.io/api/options.html#threshold

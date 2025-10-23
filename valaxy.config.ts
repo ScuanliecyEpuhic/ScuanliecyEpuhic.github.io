@@ -78,10 +78,10 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: false  // 评论设置
     },
   },
-  vite: {
-    ssgOptions: {
-      dirStyle: 'nested',
-    },
-    // base: './'
-  },
+  // vite: {
+  //   ssgOptions: {
+  //     dirStyle: 'nested',
+  //   },
+  //   // base: './'
+  // },
 })

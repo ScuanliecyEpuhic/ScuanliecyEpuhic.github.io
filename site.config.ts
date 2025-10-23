@@ -42,7 +42,7 @@ export default defineSiteConfig({
     /**
      * 设置搜索的文件路径
      */
-    pattern: 'pages/**/*.md',
+    pattern: 'pages/posts/**/*.md',
     options: {
       keys: ['title', 'tags', 'categories', 'excerpt', 'content'],
       /**

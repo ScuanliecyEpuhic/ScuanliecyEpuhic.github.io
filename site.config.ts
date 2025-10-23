@@ -46,11 +46,11 @@ export default defineSiteConfig({
    options: {
       keys: ['title', 'tags', 'categories', 'content'],
       /**
-       * @default 0.1
+       * @default 0.2
        * @see https://www.fusejs.io/api/options.html#threshold
        * 设置匹配阈值，越低越精确
        */
-      threshold: 0.1,
+      threshold: 0.2,
       /**
        * @default false
        * @see https://www.fusejs.io/api/options.html#ignoreLocation

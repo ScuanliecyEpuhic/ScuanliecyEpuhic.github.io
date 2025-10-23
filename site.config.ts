@@ -42,15 +42,15 @@ export default defineSiteConfig({
     /**
      * 设置搜索的文件路径
      */
-    pattern: '/pages/**/*.md',
+    pattern: '/posts/**/*.md',
     options: {
-      keys: ['title', 'tags', 'categories', 'excerpt'],
+      keys: ['title', 'tags', 'categories'],
       /**
-       * @default 0.2
+       * @default 0.3
        * @see https://www.fusejs.io/api/options.html#threshold
        * 设置匹配阈值，越低越精确
        */
-      threshold: 0.2,
+      threshold: 0.3,
       /**
        * @default false
        * @see https://www.fusejs.io/api/options.html#ignoreLocation

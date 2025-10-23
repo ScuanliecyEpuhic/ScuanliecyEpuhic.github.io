@@ -38,7 +38,7 @@ export default defineSiteConfig({
     enable: true,
     type: 'fuse'
   },
-fuse: {
+  fuse: {
     /**
      * 设置搜索的文件路径
      */

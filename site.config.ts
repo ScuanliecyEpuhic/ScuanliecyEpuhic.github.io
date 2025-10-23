@@ -46,7 +46,7 @@ export default defineSiteConfig({
     options: {
       keys: ['title', 'tags', 'categories', 'excerpt', 'content'],
       /**
-       * @default 0.6
+       * @default 0.2
        * @see https://www.fusejs.io/api/options.html#threshold
        * 设置匹配阈值，越低越精确
        */
@@ -57,7 +57,7 @@ export default defineSiteConfig({
        * 忽略位置
        * 这对于搜索文档全文内容有用，若无需全文搜索，则无需设置此项
        */
-      ignoreLocation: false,
+      ignoreLocation: true,
     },
   },
   comment: {

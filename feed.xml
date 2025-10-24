@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ᖰ⌯'▾'⌯ᖳ~~♥</title>
+        <link>https://scuanliecyepuhic.github.io/</link>
+        <description>梦想成为pwn糕手的半二次元人 .</description>
+        <lastBuildDate>Fri, 24 Oct 2025 02:29:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>ᖰ⌯'▾'⌯ᖳ~~♥</title>
+            <url>https://scuanliecyepuhic.github.io/images/avatar.png</url>
+            <link>https://scuanliecyepuhic.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 咲之花</copyright>
+        <atom:link href="https://scuanliecyepuhic.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[如何使用VScode编译C语言]]></title>
+            <link>https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</link>
+            <guid isPermaLink="false">https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>如何使用VScode编写C语言</h1>
+<h2>前言</h2>
+<p>对于很多学校来说，C语言常常被作为<strong>第一个</strong>编程语言去学习</p>
+<p>但是也不乏有些学校整这些没用的去刁难学生（比如某些专业我个人感觉先学习Pytho</p>
+<br/><p>访问 <a href="https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article" target="_blank">https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (咲之花)</author>
+        </item>
+        <item>
+            <title><![CDATA[Logi靶机]]></title>
+            <link>https://scuanliecyepuhic.github.io/posts/wp-Logi/article</link>
+            <guid isPermaLink="false">https://scuanliecyepuhic.github.io/posts/wp-Logi/article</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>攻击机：Kali Linux</h3>
+<h3>一. 信息搜集</h3>
+<h4>先做存活主机发现</h4>
+<pre><code class="language-shell">┌──(root㉿kali)-[~]
+└─# arp-scan -l
+Interf</code></pre>
+<br/><p>访问 <a href="https://scuanliecyepuhic.github.io/posts/wp-Logi/article" target="_blank">https://scuanliecyepuhic.github.io/posts/wp-Logi/article</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (咲之花)</author>
+        </item>
+    </channel>
+</rss>

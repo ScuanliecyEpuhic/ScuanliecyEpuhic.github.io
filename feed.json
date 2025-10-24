@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ᖰ⌯'▾'⌯ᖳ~~♥",
+    "home_page_url": "https://scuanliecyepuhic.github.io/",
+    "feed_url": "https://scuanliecyepuhic.github.io/feed.json",
+    "description": "梦想成为pwn糕手的半二次元人 .",
+    "icon": "https://scuanliecyepuhic.github.io/images/avatar.png",
+    "author": {
+        "name": "咲之花",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article",
+            "content_html": "<h1>如何使用VScode编写C语言</h1>\n<h2>前言</h2>\n<p>对于很多学校来说，C语言常常被作为<strong>第一个</strong>编程语言去学习</p>\n<p>但是也不乏有些学校整这些没用的去刁难学生（比如某些专业我个人感觉先学习Pytho</p>\n<br/><p>访问 <a href=\"https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article\" target=\"_blank\">https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</a> 阅读全文。</p>",
+            "url": "https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article",
+            "title": "如何使用VScode编译C语言",
+            "date_modified": "2025-10-23T00:00:00.000Z",
+            "date_published": "2025-10-23T00:00:00.000Z",
+            "author": {
+                "name": "咲之花",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://scuanliecyepuhic.github.io/posts/wp-Logi/article",
+            "content_html": "<h3>攻击机：Kali Linux</h3>\n<h3>一. 信息搜集</h3>\n<h4>先做存活主机发现</h4>\n<pre><code class=\"language-shell\">┌──(root㉿kali)-[~]\n└─# arp-scan -l\nInterf</code></pre>\n<br/><p>访问 <a href=\"https://scuanliecyepuhic.github.io/posts/wp-Logi/article\" target=\"_blank\">https://scuanliecyepuhic.github.io/posts/wp-Logi/article</a> 阅读全文。</p>",
+            "url": "https://scuanliecyepuhic.github.io/posts/wp-Logi/article",
+            "title": "Logi靶机",
+            "date_modified": "2025-10-22T00:00:00.000Z",
+            "date_published": "2025-10-22T00:00:00.000Z",
+            "author": {
+                "name": "咲之花",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

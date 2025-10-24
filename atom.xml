@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://scuanliecyepuhic.github.io/</id>
+    <title>ᖰ⌯'▾'⌯ᖳ~~♥</title>
+    <updated>2025-10-24T02:29:57.225Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>咲之花</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://scuanliecyepuhic.github.io/"/>
+    <link rel="self" href="https://scuanliecyepuhic.github.io/atom.xml"/>
+    <subtitle>梦想成为pwn糕手的半二次元人 .</subtitle>
+    <logo>https://scuanliecyepuhic.github.io/images/avatar.png</logo>
+    <icon>https://scuanliecyepuhic.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 咲之花</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用VScode编译C语言]]></title>
+        <id>https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</id>
+        <link href="https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article"/>
+        <updated>2025-10-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1>如何使用VScode编写C语言</h1>
+<h2>前言</h2>
+<p>对于很多学校来说，C语言常常被作为<strong>第一个</strong>编程语言去学习</p>
+<p>但是也不乏有些学校整这些没用的去刁难学生（比如某些专业我个人感觉先学习Pytho</p>
+<br/><p>访问 <a href="https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article" target="_blank">https://scuanliecyepuhic.github.io/posts/how-to-compile-c-files-in-vscode/article</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>咲之花</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logi靶机]]></title>
+        <id>https://scuanliecyepuhic.github.io/posts/wp-Logi/article</id>
+        <link href="https://scuanliecyepuhic.github.io/posts/wp-Logi/article"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>攻击机：Kali Linux</h3>
+<h3>一. 信息搜集</h3>
+<h4>先做存活主机发现</h4>
+<pre><code class="language-shell">┌──(root㉿kali)-[~]
+└─# arp-scan -l
+Interf</code></pre>
+<br/><p>访问 <a href="https://scuanliecyepuhic.github.io/posts/wp-Logi/article" target="_blank">https://scuanliecyepuhic.github.io/posts/wp-Logi/article</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>咲之花</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-10-22T00:00:00.000Z</published>
+    </entry>
+</feed>
